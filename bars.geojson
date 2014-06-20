@@ -7,13 +7,27 @@
         "type": "Point",
         "coordinates": [
           -75.167310,
-          10.0386
+          39.943864 
         ]
       },
       "properties": {
         "marker-symbol": "bar",
         "name": "The Cambridge",
         "address": "1508 South St."
+      }
+    },
+       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.173892,
+          39.950541 
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Tria Taproom",
+        "address": "2005 Walnut St"
       }
     }
 
