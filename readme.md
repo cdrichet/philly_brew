@@ -1,9 +1,8 @@
-# DC WiFi Social
+# Philly WiFi Social
 
-<img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
+This project originally created by benbalter for the DC area. 
 
-
-### A collaborative list of DC locations that serve up both Internet and Alcohol
+### A collaborative list of Philly locations that serve up both Internet and Alcohol.
 
 *Because coding together is better than coding alone (TM)*
 
