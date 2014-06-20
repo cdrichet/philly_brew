@@ -16,6 +16,7 @@
         "address": "1508 South St."
       }
     },
+    {
        "type": "Feature",
       "geometry": {
         "type": "Point",
